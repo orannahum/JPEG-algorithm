@@ -18,7 +18,7 @@ and Huffman Coding
 
 6.Decoding
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2Fa-The-DCT-basis-images-forming-the-complete-DCT-dictionary-of-size-N-8-b-The_fig2_271950364&psig=AOvVaw3B3T9SY9MXB5gKTQ_dMku5&ust=1636636462188000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiT95zwjfQCFQAAAAAdAAAAABAJ
+![image](https://user-images.githubusercontent.com/80626713/141119788-58670745-0d12-4698-929a-0202bbe9186a.png)
 
 ![image](https://user-images.githubusercontent.com/80626713/141119694-9ed6fdd8-bccd-4ef9-910e-7b35c98a2d49.png)
 
