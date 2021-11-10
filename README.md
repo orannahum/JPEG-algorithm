@@ -8,9 +8,7 @@ Jpeg compression.
 
 3.DCT
 
-4.Zig-Zag process
-
-and Huffman Coding
+4.Zig-Zag process and Huffman Coding
 
 4.Saving as jpeg, do step-5 for all blocks of the image
 
